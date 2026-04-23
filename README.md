@@ -47,21 +47,21 @@
 Built an **agentic chatbot** system using RAG architecture to provide context-aware and intelligent responses.  
 🔗 [View Repo](https://github.com/rox881/Rag_Finsite_Chatbot.)
 
-### 2) ♻️ Waste Detection using YOLO
+### 2) ♻️  Waste-Detection-Ai-model-using-yolo
 Developed an object detection pipeline for **waste detection** using YOLO-based computer vision approach.  
-🔗 [View Repo](https://github.com/rox881/waste-detection-yolo)
+🔗 [View Repo](https://github.com/rox881/Waste-Detection-Ai-model-using-yolo)
 
-### 3) 🏆 Finsite (Hackathon Project)
+### 3) 🏆 FinSight_AI (Hackathon Project)
 Contributed by building an **agentic chatbot** that fetches API data and answers users based on profile/context.  
-🔗 [View Repo](https://github.com/rox881/finsite)
+🔗 [View Repo](https://github.com/rox881/FinSight_AI)
 
-### 4) 🎙️ SST Optimize Module (Whisper Optimization)
+### 4) 🎙️  SST_module_optimised_Uptoskills (Whisper Optimization)
 Optimized Whisper-based speech-to-text module by applying various optimization techniques for better latency/efficiency.  
-🔗 [View Repo](https://github.com/rox881/sst-optimize-module)
+🔗 [View Repo](https://github.com/rox881/SST_module_optimised_Uptoskills)
 
 ### 5) 🩻 CT Scan Analysis
 Built an AI/ML-based **CT scan analysis** workflow for medical imaging insights.  
-🔗 [View Repo](https://github.com/rox881/ct-scan-analysis)
+🔗 [View Repo](https://github.com/rox881/ct_scan_analysis)
 
 
 ## 📊 GitHub Stats
