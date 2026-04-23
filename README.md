@@ -43,9 +43,9 @@
 
 ## 🚀 Top Projects
 
-### 1) 🧠 RAG Code Craft — Agentic Chatbot
+### 1) 🧠  Rag_Finsite_Chatbot. — Agentic Chatbot
 Built an **agentic chatbot** system using RAG architecture to provide context-aware and intelligent responses.  
-🔗 [View Repo](https://github.com/rox881/rag-code-craft)
+🔗 [View Repo](https://github.com/rox881/Rag_Finsite_Chatbot.)
 
 ### 2) ♻️ Waste Detection using YOLO
 Developed an object detection pipeline for **waste detection** using YOLO-based computer vision approach.  
