@@ -53,7 +53,7 @@ Developed an object detection pipeline for **waste detection** using YOLO-based 
 
 ### 3) 🏆 FinSight_AI (Hackathon Project)
 Contributed by building an **agentic chatbot** that fetches API data and answers users based on profile/context.  
-🔗 [View Repo](https://github.com/rox881/FinSight_AI)
+🔗 [View Repo](https://github.com/rox881/pranay335/FinSight_AI)
 
 ### 4) 🎙️  SST_module_optimised_Uptoskills (Whisper Optimization)
 Optimized Whisper-based speech-to-text module by applying various optimization techniques for better latency/efficiency.  
