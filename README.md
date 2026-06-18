@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gaurav%20Kshirsagar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gaurav%20Kshirsagar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontAlign=50" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm @rox881</h1>
 <h3 align="center">AI/ML Engineer | Deep Learning Intern | Agentic AI Builder | Computer Vision & LLM Applications</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=900&center=true&vCenter=true&width=920&lines=Building+Agentic+AI+Chatbots+with+RAG+⚡;Computer+Vision+Projects+with+YOLOv8+👁️;Speech-to-Text+Optimization+with+Whisper+🎙️;Designing+Context-Aware+AI+Systems+🧠" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=900&center=true&vCenter=true&width=920&lines=Building+Agentic+AI+Chatbots+with+RAG+⚡;Computer+Vision+Projects+🚀;Speech-to-Text+Optimization+🎙️;AI+Interview+Systems+🤖;Scalable+ML+Architectures+🏗️" />
 </div>
 
 ---
@@ -60,11 +60,6 @@ Built an AI/ML workflow for **CT scan medical imaging insights**.
 **Jul 2025 – Present**
 - Active contributor in AI/ML initiatives and collaborative technical activities.
 
-### Last Moment Tuitions — Technical Content Writer Intern
-**Dec 2025 – Jan 2026**
-- Created technical and educational content with clarity and accuracy.
-- Collaborated with teams, incorporated feedback, and delivered on deadlines.
-
 ---
 
 ## 🎓 Education
@@ -95,24 +90,6 @@ Built an AI/ML workflow for **CT scan medical imaging insights**.
 <img src="https://img.shields.io/badge/FastAPI-10b981?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </div>
-
----
-
-## 🏅 Certifications
-
-- WEB FULL STACK DEVELOPER VIRTUAL INTERNSHIP
-- Project: Deep Research with LangGraph
-- Introduction to Git
-- Java Fundamentals
-- GenAI 101 with Pieces
-
----
-
-## 🌐 Languages
-
-- Hindi (Native or Bilingual)
-- Marathi (Native or Bilingual)
-- English (Full Professional)
 
 ---
 
