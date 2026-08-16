@@ -1,110 +1,38 @@
-# Hi, I'm Gaurav Kshirsagar
+<div align="center">👋 Hey, I'm Gaurav
 
-**AI/ML Engineer** focused on **Agentic AI**, **LLMs**, **RAG systems**, and **Computer Vision**.
+"AI/ML" • "Agentic AI" • "LLMs" • "RAG"
 
-I build practical, production-oriented AI systems — from multi-agent workspaces and RAG chatbots to computer vision pipelines for real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%F0%9F%A4%96;Exploring+LLM+Systems+%F0%9F%A7%A0;Breaking+%26+Understanding+Code+%F0%9F%94%A7" /></div>---
 
-📍 Mumbai, India · APSIT
+<div align="center">⚡ What I Work With
 
----
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,react,git,github,sqlite,mysql,tensorflow" /><br/><img src="https://skillicons.dev/icons?i=linux,vscode" />LangGraph · MCP · Ollama · RAG · ChromaDB · LLMs
 
-### Currently Building
-**[KaiNote](https://github.com/rox881/KaiNote)** — Local-first, AI-powered multi-agent productivity workspace that unifies notes, knowledge organization, task management, and calendar scheduling.
+</div>---
 
----
+<div align="center">🚀 Currently Building
 
-### Featured Work
-| Project | Description | Focus |
-|---------|-------------|-------|
-| [KaiNote](https://github.com/rox881/KaiNote) | Multi-agent AI productivity workspace | Agentic AI · Local-first |
-| [Rag_Finsite_Chatbot](https://github.com/rox881/Rag_Finsite_Chatbot) | RAG-powered financial chatbot | RAG · LLMs |
-| [CyberShield](https://github.com/rox881/CyberShield) | AI phishing detection system | Security · ML |
-| [Waste Detection (YOLO)](https://github.com/rox881/Waste-Detection-Ai-model-using-yolo) | Real-time waste detection & classification | Computer Vision · YOLO |
-| [CT Scan Analysis](https://github.com/rox881/ct_scan_analysis) | Medical image analysis pipeline | Computer Vision · Healthcare |
+<a href="https://github.com/rox881">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rox881&repo=KaiNote&theme=tokyonight&hide_border=true" />
+</a></div>---
 
----
+<div align="center">🧠 Areas I'm Exploring
 
-### Tech Stack
-**Core**  
-Python · LangGraph · LangChain · Ollama · ChromaDB · RAG · LLMs
+"AI Agents" "LLM Engineering" "RAG" "Machine Learning" "AI Systems"
 
-**Computer Vision & ML**  
-YOLO · TensorFlow / Keras · OpenCV · Scikit-learn
+</div>---
 
-**Supporting**  
-FastAPI · Streamlit · Docker · Git · Jupyter
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=rox881&show_icons=true&theme=tokyonight&hide_border=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rox881&layout=compact&theme=tokyonight&hide_border=true" /></div>---
 
----
+<div align="center">🌐 Connect
 
-### GitHub Activity
+<a href="https://github.com/rox881">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/gaurav-kshirsagar-616067254/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rox881&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rox881&theme=transparent&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
+"Build → Break → Understand → Improve" 🚀
 
----
-
-### Connect
-- LinkedIn: [gaurav-kshirsagar-616067254](https://www.linkedin.com/in/gaurav-kshirsagar-616067254)
-- freeCodeCamp: [rox881](https://www.freecodecamp.org/rox881)
-- Kaggle: [gauravrkshirsagar](https://www.kaggle.com/gauravrkshirsagar)
-
----
-
-**Build → Break → Understand → Improve**<h1 align="center">Hi, I'm Rox 👋</h1>
-<p align="center">
-  Building practical software with clean code, clear thinking, and real-world impact.
-</p>
-
-<p align="center">
-  <a href="https://github.com/rox881">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL@example.com">Email</a> •
-  <a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
-</p>
-
----
-
-### 🚀 About Me
-- 💻 Developer focused on building useful, production-minded projects  
-- 🧠 Interested in problem-solving, backend logic, and scalable systems  
-- 🤝 Open to internships, entry-level roles, and collaboration  
-- 🌱 Currently improving: DSA, system design fundamentals, and project depth  
-
----
-
-### 🛠 Tech Stack
-**Languages:** `C++` `JavaScript` `Python`  
-**Frontend:** `HTML` `CSS` `React`  
-**Backend:** `Node.js` `Express`  
-**Database:** `MongoDB` `MySQL`  
-**Tools:** `Git` `GitHub` `Postman` `VS Code`
-
----
-
-### 📌 Featured Projects
-> Replace these with your best 2–4 projects.
-
-- **Project One — Short Outcome-Based Title**  
-  One-line impact: what problem it solves + result.  
-  `Tech:` React, Node.js, MongoDB  
-  🔗 [Repo](https://github.com/rox881/your-project) | 🌐 [Live Demo](https://your-demo-link.com)
-
-- **Project Two — Short Outcome-Based Title**  
-  One-line impact: what you built and why it matters.  
-  `Tech:` Python, Flask, SQL  
-  🔗 [Repo](https://github.com/rox881/your-project)
-
----
-
-### 📈 GitHub Snapshot
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rox881&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rox881&layout=compact&theme=default" height="150" />
-</p>
-
----
-
-### 📬 Let’s Connect
-If you're a recruiter or hiring manager, I’d be glad to share my resume and discuss how I can contribute to your team.
+</div>
