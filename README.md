@@ -108,9 +108,7 @@ Real-time waste classification with YOLOv8.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rox881&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rox881&hide_border=true&theme=transparent" height="165"/>
-</div>
+
 
 ---
 
