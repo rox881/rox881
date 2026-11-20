@@ -41,17 +41,13 @@ Currently focused on <b>AI Agents</b>, <b>RAG</b>, and <b>Production-grade LLM E
 <table>
 <tr><td width="50%">
 
-**🧠 [KaiNote](https://github.com/rox881/KaiNote)**
-Multi-agent AI workspace unifying notes, tasks, calendar, search & chat.
-`LangGraph` `RAG` `Ollama` `MCP` `FastAPI` `React` `SQLite`
-
 **🤖 [AI BDR Agent](https://github.com/rox881/BDR-agent)**
 Autonomous Human-in-the-Loop lead enrichment & outreach agent with CRM sync and Telegram approval workflows.
 `LangGraph` `Gemini` `Groq` `Tavily` `Google Sheets` `Telegram`
 
-**🎙️ [Whisper Optimization](https://github.com/rox881/<whisper-repo>)**
-Faster-Whisper STT pipeline tuning — **28% WER reduction**.
-`Speech-to-Text` `Faster-Whisper`
+**🧠 [KaiNote](https://github.com/rox881/KaiNote)**
+Multi-agent AI workspace unifying notes, tasks, calendar, search & chat.
+`LangGraph` `RAG` `Ollama` `MCP` `FastAPI` `React` `SQLite`
 
 </td><td width="50%">
 
@@ -62,10 +58,6 @@ LLM-powered web app converting raw event details into formatted institutional Wo
 **🛡️ [medical-transcription_DOCTORS_APP](https://github.com/rox881/medical-transcription_DOCTORS_APP)**
 Live Transcription Generation — web app + FastAPI backend, DeepGram API.
 `DeepGram` `FastAPI` `Groq`
-
-**♻️ [Waste Detection](https://github.com/rox881/Waste-Detection-Ai-model-using-yolo)**
-Real-time waste classification with YOLOv8.
-`Computer Vision` `YOLOv8`
 
 </td></tr>
 </table>
