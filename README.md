@@ -10,7 +10,7 @@ Currently focused on <b>AI Agents</b>, <b>RAG</b>, and <b>Production-grade LLM E
   <a href="https://www.linkedin.com/in/gaurav-kshirsagar-616067254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/rox881"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.kaggle.com/gauravrkshirsagar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://www.freecodecamp.org/rox881"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
+  <a href="https://x.com/GauravBuilds_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
@@ -36,6 +36,7 @@ Currently focused on <b>AI Agents</b>, <b>RAG</b>, and <b>Production-grade LLM E
 | **Multi-agent system, built solo** | KaiNote — Notes, Tasks, Calendar, Search & Chat unified via LangGraph agents |
 
 ---
+
 ### 🔬 Selected Work
 
 <table>
@@ -61,30 +62,37 @@ Live Transcription Generation — web app + FastAPI backend, DeepGram API.
 
 </td></tr>
 </table>
----
 
 ### ⚙️ Tools & Technologies
 
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**GenAI / Agentic**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-
-**Development**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
+<table width="100%">
+  <tr>
+    <th width="33%">AI / ML</th>
+    <th width="33%">GenAI / Agentic</th>
+    <th width="34%">Development</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 
