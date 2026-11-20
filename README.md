@@ -36,7 +36,6 @@ Currently focused on <b>AI Agents</b>, <b>RAG</b>, and <b>Production-grade LLM E
 | **Multi-agent system, built solo** | KaiNote — Notes, Tasks, Calendar, Search & Chat unified via LangGraph agents |
 
 ---
-
 ### 🔬 Selected Work
 
 <table>
@@ -46,31 +45,30 @@ Currently focused on <b>AI Agents</b>, <b>RAG</b>, and <b>Production-grade LLM E
 Multi-agent AI workspace unifying notes, tasks, calendar, search & chat.
 `LangGraph` `RAG` `Ollama` `MCP` `FastAPI` `React` `SQLite`
 
-**💬 AI Interview System**
-Context-aware mock interview engine grounded in candidate resume/context.
-`LangChain` `FAISS` `Groq` `RAG`
+**🤖 [AI BDR Agent](https://github.com/rox881/BDR-agent)**
+Autonomous Human-in-the-Loop lead enrichment & outreach agent with CRM sync and Telegram approval workflows.
+`LangGraph` `Gemini` `Groq` `Tavily` `Google Sheets` `Telegram`
 
-**🎙️ Whisper Optimization**
+**🎙️ [Whisper Optimization](https://github.com/rox881/<whisper-repo>)**
 Faster-Whisper STT pipeline tuning — **28% WER reduction**.
 `Speech-to-Text` `Faster-Whisper`
 
 </td><td width="50%">
 
-**📊 RAG FinSight**
-Agentic RAG system for financial document Q&A.
-`RAG` `Agentic AI`
+**📄 [Automated Report & Notice Generator](https://github.com/rox881/Automated-Report-and-Notice-Generator)**
+LLM-powered web app converting raw event details into formatted institutional Word documents.
+`FastAPI` `Groq` `docxtpl` `Jinja2` `SQLite`
 
-**🛡️ CyberShield**
-Local-LLM phishing detection — Chrome Extension + FastAPI backend, fully offline via Ollama.
-`Ollama` `FastAPI` `Cybersecurity`
+**🛡️ [medical-transcription_DOCTORS_APP](https://github.com/rox881/medical-transcription_DOCTORS_APP)**
+Live Transcription Generation — web app + FastAPI backend, DeepGram API.
+`DeepGram` `FastAPI` `Groq`
 
-**♻️ Waste Detection**
+**♻️ [Waste Detection](https://github.com/rox881/Waste-Detection-Ai-model-using-yolo)**
 Real-time waste classification with YOLOv8.
 `Computer Vision` `YOLOv8`
 
 </td></tr>
 </table>
-
 ---
 
 ### ⚙️ Tools & Technologies
@@ -78,9 +76,6 @@ Real-time waste classification with YOLOv8.
 **AI / ML**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
@@ -89,8 +84,6 @@ Real-time waste classification with YOLOv8.
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-2E8B57?style=flat-square)
 
 **Development**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -107,8 +100,6 @@ Real-time waste classification with YOLOv8.
 <img src="https://github-readme-stats.vercel.app/api?username=rox881&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rox881&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </div>
-
-
 
 ---
 
